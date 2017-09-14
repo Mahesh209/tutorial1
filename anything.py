@@ -3,4 +3,4 @@ def anything():
     print("anything")
     print("nothing")
     print(".")
-    print("@")
+    print("hello world")
