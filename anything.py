@@ -1,5 +1,5 @@
 def anything():
-    print("something")
+    print("garbage")
     print("anything")
     print("nothing")
     print(".")
